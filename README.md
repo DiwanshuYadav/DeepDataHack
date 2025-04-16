@@ -14,8 +14,9 @@ Retail sales data with invoice, quantity, unit price, customer ID, etc.
 - SMOTE / Undersampling to handle imbalance
 
 ## 🧪 Metrics
-- F1 Score: ...
-- AUC-ROC: ...
+- F1 Score: 0.9984689671416794
+- AUC-ROC: 0.9989982877271185
+- Accuracy: 0.9989786297925832
 - Confusion Matrix, ROC Curve
 
 ## 🔍 Explainability
